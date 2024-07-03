@@ -101,6 +101,7 @@ input[type="checkbox"] {
 
 a {
     margin-right: 0;
+    text-decoration: none;
 }
 
 .forgot-password {
