@@ -107,4 +107,13 @@ a {
     text-decoration: none;
 }
 
+.themostlittlebox {
+    display: flex;
+    gap: 85px;
+}
+
+.themostlittlebox2 {
+    display: flex;
+    gap: 200px;
+}
 
